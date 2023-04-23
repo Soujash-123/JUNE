@@ -1,3 +1,16 @@
+'''This code is an updated version of the Active Mode of JUNE
+v2.0
+New Features:
+1) NLP based reply on non- predefined commands.
+2) Image Verifcation.
+3) Sentiment Analysis.
+
+Features in v3.0
+1) User logs
+2) Secrecy Mode
+'''
+
+
 import speech_recognition as sr
 import pyttsx3
 import transformers
